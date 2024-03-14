@@ -57,7 +57,3 @@ Describe how others can contribute to your project:
 5. **Push to the branch (`git push origin feature/add-new-feature`).**
 6. **Create a new Pull Request.**
 
-## License
-
-Specify the license for your project (e.g., MIT License, Apache License 2.0).
-
